@@ -1,0 +1,19 @@
+/* CSS Document */
+h1 {
+	font-size: 3em;
+	text-decoration-line: underline;
+	text-decoration-style: double;
+	font-weight: bold;
+}
+body {
+	text-align: center;
+	background-color: #55D3C3;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+#amicable {
+	font-size: 2em;
+}
+
+#factors {
+	font-size: 1.5em;
+}
